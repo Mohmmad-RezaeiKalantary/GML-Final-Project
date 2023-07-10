@@ -2,6 +2,8 @@
 
 This repository contains the code and report for the study on molecular representation learning using quotient graphs. The goal of this project was to explore the effectiveness of quotient graphs in graph classification and graph regression tasks, focusing on two datasets: BBBP (Blood–brain barrier penetration) and Lipophilicity.
 
+![Alt Text](Image.png)
+
 ## Contents
 
 - classification_code.ipynb: Jupyter Notebook containing the code for the classification task using the BBBP dataset.
