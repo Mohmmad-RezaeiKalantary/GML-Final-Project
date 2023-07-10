@@ -18,9 +18,6 @@ This repository contains the code and report for the study on molecular represen
 - Scikit-learn
 
 
-## Report
-For more detailed information about the study methodology, experiments, and results, please refer to the GML.pdf file.
-
 ## Reference
 If you use this code or find it helpful in your research, please consider citing the following repository:
 FunQG: A Quotient Graph Approach for Graph Classification in PyTorch. Zahra Taheri. GitHub repository. https://github.com/hhaji/funqg
