@@ -9,13 +9,17 @@ data/: https://github.com/hhaji/funqg
 report.pdf: The detailed report documenting the study methodology, experiments, and results.
 
 ## Requirements
+
 Python 3.x
+
 Jupyter Notebook
+
 PyTorch
+
 DGL (Deep Graph Library)
+
 Scikit-learn
-Pandas
-Matplotlib
+
 
 ## Report
 For more detailed information about the study methodology, experiments, and results, please refer to the report.pdf file.
